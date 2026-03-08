@@ -1,5 +1,5 @@
 
-const API = "https://script.google.com/macros/s/AKfycbymtwyj4RBOZ6vGYg2LK7CJePthS-j4BcFdvCoUpGKdY9QhRfQER2l7knsyAXQwPfF4/exec"
+const API = "https://script.google.com/macros/s/AKfycbz0bxZSUOMtHCYquy9-KVGKtzTkgyKcto2ep6Yaj-KTnudrH124czhPhxCmz-jfCFE/exec"
 
 let user = null
 let role = null
